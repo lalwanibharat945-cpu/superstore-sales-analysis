@@ -24,6 +24,7 @@ The focus is on understanding why the business shows moderate profitability desp
 ---
 
 ## 📊 Dashboard
+<img width="1285" height="725" alt="image" src="https://github.com/user-attachments/assets/3479185e-f68c-405f-b459-69720fc925e5" />
 
 
 ---
